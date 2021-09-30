@@ -1,2 +1,4 @@
-﻿  源.cpp
-  Noob.vcxproj -> C:\Users\Ryan\source\repos\Noob\Debug\Noob.exe
+﻿  两个整数和.cpp
+D:\工作\Noob\Project1\Noob\Noob\两个整数和.cpp(9,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+源.obj : error LNK2005: _main 已经在 两个整数和.obj 中定义
+D:\工作\Noob\Project1\Noob\Debug\Noob.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
